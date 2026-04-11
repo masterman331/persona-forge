@@ -99,3 +99,21 @@ The Chinese documentation exists partly because of this connection to the Chines
 ---
 
 *The creator isn't actively developing right now, but might come back. Community ideas welcome — this was meant to be a human replica, and that has uses far beyond chatting. Hook it up to Instagram. Put it in a game. Build something wild.*
+
+---
+
+## 🪙 Support This Project
+
+If you found this project useful, interesting, or helpful, consider supporting its development through **Monero**.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/masterman331/masterman331/main/moneroadress.png" alt="Monero donation QR code" width="220"/>
+</p>
+
+<p align="center">
+<code>47chh1Z9wvHDP6ZDpzPPETKaXUfsNnmXr8P5cL4ofAkH1fi3mrrvC7tiRoeqxtNCbB1BQ3rqk5k2tSPGoiMSTUTC3iPc9Qu</code>
+</p>
+
+<p align="center">
+  <em>Privacy-respecting contributions help keep independent development alive.</em>
+</p>
