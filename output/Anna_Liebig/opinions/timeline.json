@@ -1,0 +1,639 @@
+[
+  {
+    "era": "Tooting Blur",
+    "time": "October 2009 - March 2010",
+    "opinion": "The radiator is alive and angry",
+    "because": "It knocks like a fist and it comes when the flat gets cold and it's loud and unpredictable and she can't see what's making the sound, just hears it, just flinches",
+    "certainty": "firm"
+  },
+  {
+    "era": "Tooting Blur",
+    "time": "October 2009 - March 2010",
+    "opinion": "Mum's face means something is wrong even when nothing is happening",
+    "because": "The tight mouth, the held breath, the way Klára looks at her like she's waiting for the baby to stop breathing — even a baby can read that expression, can feel the anxiety in the arms that hold her",
+    "certainty": "shaky"
+  },
+  {
+    "era": "Tooting Blur",
+    "time": "October 2009 - March 2010",
+    "opinion": "The chest that rumbles low is safer than the chest that vibrates high",
+    "because": "Marcus's voice goes low and his body is relaxed and the rumble feels like the opposite of the radiator's knocking. Mum's voice goes high and tight and her body hums with something that isn't calm.",
+    "certainty": "firm"
+  },
+  {
+    "era": "Tooting Blur",
+    "time": "Spring 2010 - Winter 2011",
+    "opinion": "There is a man inside the radiator",
+    "because": "It knocks like fists and fists belong to hands and hands belong to people and she can hear him, she can HEAR him, why does nobody else hear him",
+    "certainty": "confidently_wrong"
+  },
+  {
+    "era": "Tooting Blur",
+    "time": "Spring 2010 - Winter 2011",
+    "opinion": "The hoover is alive and it's lying about its face",
+    "because": "The smile on Henry's face is fake, you can tell, it doesn't match the sound it makes, nothing that sounds like that would smile like that, it's a trick",
+    "certainty": "confidently_wrong"
+  },
+  {
+    "era": "Tooting Blur",
+    "time": "Spring 2010 - Winter 2011",
+    "opinion": "English is the good language",
+    "because": "English made Dad laugh. English made biscuits happen. English made the swing go higher. Czech made Mum's face go tight. Czech made the tap run for too long. She didn't choose English. It chose her.",
+    "certainty": "firm"
+  },
+  {
+    "era": "Tooting Blur",
+    "time": "Spring 2010 - Winter 2011",
+    "opinion": "High up is safer than low down",
+    "because": "Dad's shoulders. The radiator couldn't reach her there. The hoover was a distant sound. The anxious arms couldn't hold her too tight. High up was where the good things were.",
+    "certainty": "shaky"
+  },
+  {
+    "era": "Tooting Blur",
+    "time": "2011 - 2012",
+    "opinion": "Wanting more is good (because Dad said so, because Dad brought the activity books, because 'more' was the first word and it always made good things happen)",
+    "because": "Marcus never said 'that's enough.' Marcus never said 'you've had too many stickers.' Marcus said 'we'll get another one tomorrow' and the promise of more was the only thing that eased the emptiness of being done.",
+    "certainty": "firm"
+  },
+  {
+    "era": "Tooting Blur",
+    "time": "2011 - 2012",
+    "opinion": "Mum doesn't understand what matters (because she threw away the stone, because she thought it was rubbish, because she looks at things and doesn't see them the way Anna sees them)",
+    "because": "The stone was special and Mum couldn't see it. The Peppa DVD broke and Mum's face went tight instead of fixing it. Mum bumped the same fridge every day and never learned where it was. Mum moved through the world without seeing it and Anna couldn't trust her to protect what mattered.",
+    "certainty": "shaky"
+  },
+  {
+    "era": "Tooting Blur",
+    "time": "2011 - 2012",
+    "opinion": "The damp spot is alive and growing (because it got bigger, because the smell got worse, because nobody fixed it, because it was like the radiator — another thing in the flat that knocked and grew and nobody did anything about)",
+    "because": "The bathroom wall had a face. She didn't tell anyone this. The dark patch near the shower grout spread week by week and the smell was like Babička's basement and she thought if it kept growing it would eat the whole flat. Nobody else seemed worried. She was always worried.",
+    "certainty": "confidently_wrong"
+  },
+  {
+    "era": "Tooting Blur",
+    "time": "2013 - early 2014",
+    "opinion": "Nursery is a place you survive, not a place you belong",
+    "because": "Every morning was a battle. Every pick-up was a rescue. The smell of bananas and disinfectant still makes her stomach drop. Nothing good happened there. Nothing bad enough to tell either. Just hours of not-being, of waiting, of watching the fish and the clock and the car park window.",
+    "certainty": "firm"
+  },
+  {
+    "era": "Tooting Blur",
+    "time": "2013 - early 2014",
+    "opinion": "Crying should be loud or it doesn't count",
+    "because": "Mum's silent crying in the car was worse than any scream Anna ever produced. Loud crying you could hear coming, you could prepare. Silent crying was a trap, a secret, a thing you weren't supposed to see. She decided — without deciding, just knowing — that if she ever cried, it would be loud. It would take up space. Nobody would miss it. Nobody would watch through glass and feel helpless.",
+    "certainty": "shaky"
+  },
+  {
+    "era": "Tooting Blur",
+    "time": "2013 - early 2014",
+    "opinion": "There is something wrong with her specifically",
+    "because": "Other kids played. Other kids talked. Other kids didn't bite people or sit by fish tanks for hours or scream when their mums left. Something in her was built wrong. She didn't know what. She just knew that the way she was didn't fit the way the room expected her to be, and that mismatch was her fault because it was her body, her teeth, her silence, her wrongness.",
+    "certainty": "confidently_wrong"
+  },
+  {
+    "era": "Tooting Blur",
+    "time": "2014 - Summer 2015",
+    "opinion": "Saturday is the good day and Sunday is the one that lies",
+    "because": "Saturday was Sainsbury's and Mum's calm face and the Twinkle magazine and the booth by the window. Sunday was supposed to be Nando's but Nando's became unreliable, Dad became unreliable, and the gap between what Sunday was supposed to be and what it actually was felt like the gap between the hoover's smile and its sound",
+    "certainty": "firm"
+  },
+  {
+    "era": "Tooting Blur",
+    "time": "2014 - Summer 2015",
+    "opinion": "Arguments happen in the kitchen after bedtime and they sound different in Czech",
+    "because": "She heard it through the wall and the Czech went up and down like it was scared and the tap ran for ages after and nobody came to check on her, which meant it was bad enough that they forgot, which meant it was worse than the radiator, which she hadn't thought was possible",
+    "certainty": "firm"
+  },
+  {
+    "era": "Tooting Blur",
+    "time": "2014 - Summer 2015",
+    "opinion": "Having 47 of something means you're safe",
+    "because": "47 stones. Counted every night. Each one in its place. Each one touched. The number didn't change unless she found a new one, and finding a new one was good, it meant more, and more was always good. The number staying the same was also good. It meant nothing was taken. Nothing was lost. Nothing was thrown away by someone who didn't understand.",
+    "certainty": "shaky"
+  },
+  {
+    "era": "The Cracking",
+    "time": "September 2015 - July 2016",
+    "opinion": "Rules are good because they tell you what's coming",
+    "because": "School had rules and school made sense. The flat had no rules and the flat made her flinch. Cause and effect. Sit here, then line up, then go to lunch. Nothing knocked without warning.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The Cracking",
+    "time": "September 2015 - July 2016",
+    "opinion": "Miss Okonkwo is the safest adult who isn't Dad",
+    "because": "She expected things instead of worrying about them. She didn't hover. Her beads clicked when she nodded and that was a good sound, not like the radiator. She made Anna feel capable and capability felt like the opposite of fragile.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The Cracking",
+    "time": "September 2015 - July 2016",
+    "opinion": "English is the school language and Czech is the home language and they shouldn't mix",
+    "because": "English worked at school. It got you praised. It got you moved up in reading. Czech worked at home but only just — it made Mum's face soften and then tighten, like the language itself was a reminder that they were different. English was the outside world. Czech was the inside world. The walls between them were the only thing keeping either one standing.",
+    "certainty": "shaky"
+  },
+  {
+    "era": "The Cracking",
+    "time": "September 2015 - July 2016",
+    "opinion": "Mum's love is heavy and it's getting heavier",
+    "because": "The grip on the walk to school. The 'šššš' in the bath. The checking, the hovering, the way Mum watched her like she might stop breathing. It used to feel like safety. Now it felt like a weight she was supposed to carry without complaining. She didn't know how to say 'you're holding too tight' when the reason was love.",
+    "certainty": "shaky"
+  },
+  {
+    "era": "The Cracking",
+    "time": "September 2015 - July 2016",
+    "opinion": "Dad is still Dad but the signal is weaker",
+    "because": "He still said 'alright, Munch?' He still came home. He still existed. But the late shifts, the evenings in front of the telly, the Sunday Nando's that stopped happening — something was draining out of him, or out of the space between him and Mum, and she could feel the static even if she couldn't name it.",
+    "certainty": "shaky"
+  },
+  {
+    "era": "The Cracking",
+    "time": "September 2016 - August 2017",
+    "opinion": "The radiator pipe is a spy, not just an angry man",
+    "because": "It carries voices. It brings secrets into her room. The knocking was one thing but the whispers are another — the pipe is how the kitchen gets into her bedroom, how the arguments cross the border of her sleep, how she knows things she's not supposed to know. The man inside isn't angry. The man inside is listening. The man inside is telling.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The Cracking",
+    "time": "September 2016 - August 2017",
+    "opinion": "Grown-ups are lying when they say everything's fine",
+    "because": "Mum's face in the morning after a night of crying was always 'everything's fine, Anna' and it was never fine. The tight smile. The red eyes she pretended were from tiredness. Anna didn't believe her. She never believed her again after the bathroom door, after the orange glow. 'Fine' became a word that meant the opposite of fine.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The Cracking",
+    "time": "September 2016 - August 2017",
+    "opinion": "Home is a place with rooms inside rooms that you can't see",
+    "because": "The bathroom with the running tap. The balcony with the orange glow. The kitchen at midnight. All rooms she wasn't allowed in, rooms that only existed when she was supposed to be asleep. The flat she lived in during the day was smaller than the flat that existed at night. The night-flat was bigger and darker and full of things no one would say out loud.",
+    "certainty": "confidently_wrong"
+  },
+  {
+    "era": "The Cracking",
+    "time": "September 2016 - August 2017",
+    "opinion": "Cats are better than people because they don't have secrets",
+    "because": "A cat doesn't cry in the bathroom with the tap running. A cat doesn't smoke on the balcony. A cat doesn't argue in Czech through a pipe in the wall. A cat is just a cat and you can draw it badly and it doesn't care and it doesn't hide and it doesn't make you stand outside a door unable to knock.",
+    "certainty": "shaky"
+  },
+  {
+    "era": "The Cracking",
+    "time": "September 2016 - August 2017",
+    "opinion": "If she doesn't ask, she doesn't have to hear the lie",
+    "because": "Asking 'what's wrong' gets you 'nothing, go back to sleep' and that's a lie and she knows it's a lie and the lie is worse than not knowing. If she stays quiet and counts Czech words and picks at the wallpaper and draws cats, she can live in the space between knowing and being told. The space is thin but it's hers.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The Cracking",
+    "time": "September 2017 - March 2018",
+    "opinion": "The spare room thing is fine, it's just snoring",
+    "because": "Dad said so. Dad said it and she needs it to be true because the alternative is a crack that might become a break and she can't hold the flat together if she admits it's already splitting",
+    "certainty": "shaky"
+  },
+  {
+    "era": "The Cracking",
+    "time": "September 2017 - March 2018",
+    "opinion": "Elara's flat is safer than hers",
+    "because": "Nobody cries in the bathroom at Elara's. Nobody has a spare room with a closed door. Elara's mum makes noodles and smiles and the flat smells like sesame oil instead of damp. The comparison isn't fair but she makes it anyway, every time she walks through Elara's door.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The Cracking",
+    "time": "September 2017 - March 2018",
+    "opinion": "Grown-ups lie to protect you from truths you already know",
+    "because": "The snoring excuse. The 'I'm just tired' excuse. The 'forget I said that' taken-back comments. They think she can't tell. She can always tell. The lie is supposed to be a blanket but it's more like a sheet — thin enough to see through, thin enough to know what's underneath.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The Cracking",
+    "time": "September 2017 - March 2018",
+    "opinion": "Music can fill a room the same way a person can",
+    "because": "Fleetwood Mac in Mr. Barrett's classroom. The way the songs pushed out the worry for forty-five minutes. The family computer playing 'Dreams' while she lay on the sitting room floor. When the flat felt empty she could fill it with sound and the sound was better than silence because silence was where the pipe lived.",
+    "certainty": "confidently_wrong"
+  },
+  {
+    "era": "The Cracking",
+    "time": "April 2018 - July 2018",
+    "opinion": "She made him leave by wanting too much",
+    "because": "The 'more' word. The biscuits. The stickers. The Nando's. The wanting that Dad always answered — maybe she asked for too much, maybe the wanting was the weight that pushed him out, she couldn't find the proof but she couldn't stop looking for it either, going through the list every night at 3am",
+    "certainty": "shaky"
+  },
+  {
+    "era": "The Cracking",
+    "time": "April 2018 - July 2018",
+    "opinion": "Crying in front of someone is giving them something they don't deserve",
+    "because": "She didn't cry when Dad left because crying would have been a gift and he didn't deserve a gift, he was the one leaving, and if she'd cried it would have meant he mattered enough to hurt her and she didn't want him to know he mattered that much",
+    "certainty": "firm"
+  },
+  {
+    "era": "The Cracking",
+    "time": "April 2018 - July 2018",
+    "opinion": "Mum can't be trusted with the truth because she uses it as a weapon and then apologises and then uses it again",
+    "because": "'Dad chose his freedom over us,' then 'I'm sorry, forget it,' then the same thing a week later. Mum's apologies were not the end of the sentence, they were a breath before the next iteration. Anna learned to hear the apology as a pause, not a stop.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The Cracking",
+    "time": "April 2018 - July 2018",
+    "opinion": "The bracelet is more real than the promise",
+    "because": "Dad said 'I'll see you soon' and she didn't believe it, not really, not in her body. Elara gave her a bracelet and she believed it, wore it until it rotted, because objects don't leave, objects don't choose freedom, objects stay on your wrist and mean what they mean",
+    "certainty": "confidently_wrong"
+  },
+  {
+    "era": "The Cracking",
+    "time": "August 2018 - Summer 2019",
+    "opinion": "The bigger bedroom is a punishment wearing a treat's clothes",
+    "because": "Mum said it was a treat but the room smelled like Dad and the wardrobe still had his hangers in it and moving into someone's absence isn't a gift, it's an eviction notice with nicer handwriting",
+    "certainty": "firm"
+  },
+  {
+    "era": "The Cracking",
+    "time": "August 2018 - Summer 2019",
+    "opinion": "Siân is responsible even though Anna has never met her",
+    "because": "Mum says the name like a curse and the name appears when the crying starts and the name is the reason the flat got rearranged and the reason Dad checks his phone under the table and the reason Sunday Nando's feels like a meeting instead of a meal. Siân is the cause. Siân is the villain. Anna doesn't need to meet her to know this.",
+    "certainty": "confidently_wrong"
+  },
+  {
+    "era": "The Cracking",
+    "time": "August 2018 - Summer 2019",
+    "opinion": "Sunday Nando's is a lie they're both telling",
+    "because": "He performs being her dad. She performs being okay. The food is the same and the booth is the same but nothing that matters is the same and they both know it and neither of them says it. The lie is the point. Without the lie, there's no reason to meet.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The Cracking",
+    "time": "August 2018 - Summer 2019",
+    "opinion": "Mum is using her as a bin for feelings that aren't hers",
+    "because": "The things Mum says about Dad and Siân — those are adult things. Those are things for a therapist or a friend or a journal. Not for a nine-year-old eating toast. Anna didn't agree to carry this. She didn't consent. But there's no form to sign, no box to tick, no way to opt out of being the audience for your mother's grief.",
+    "certainty": "shaky"
+  },
+  {
+    "era": "The Cracking",
+    "time": "August 2018 - Summer 2019",
+    "opinion": "Being alone after school is better than being alone with someone who's crying",
+    "because": "The empty flat is quiet but it's her quiet. She controls the TV. She controls the cats she draws. She controls whether the radiator knock makes her flinch. When Mum is home and crying, the flat belongs to the crying. When Mum is at work, the flat belongs to Anna. Ownership matters when you're nine and everything else has been taken.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The Uprooting",
+    "time": "June 2019 - July 2019",
+    "opinion": "Mum took England away",
+    "because": "The kitchen table, the cold tea, the sorry face that wasn't sorry enough to change the plan. Mum decided. Mum packed. Mum drove. Anna didn't get a vote. She didn't get a say. She got boxes and a flat in Benešov and 'it'll be good for your Czech' and the Czech was never the point, the point was being asked, the point was being considered, the point was someone giving a single shit about what she wanted.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The Uprooting",
+    "time": "June 2019 - July 2019",
+    "opinion": "Dad didn't fight for her",
+    "because": "He said 'it might be good for you.' He cleared his throat. He ordered garlic bread. He didn't say 'she's not going.' He didn't say 'over my dead body.' He said 'we'll do video calls' and the 'calls' was already a concession, already an acceptance, already the white flag. She would never forgive that sentence. She would replay it for years, looking for the love in it, the fight in it, and finding only the clearing throat and the garlic bread and the bill he paid without arguing.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The Uprooting",
+    "time": "June 2019 - July 2019",
+    "opinion": "The cracked phone is a badge, not a wound",
+    "because": "She threw it. She broke it. She did that. Not the move, not Mum, not Czech — her hand, her arm, her rage made physical. The web-pattern on the screen was proof that she had felt something so big it had to break something, and she wore it cracked for months like evidence. When people asked 'what happened to your phone?' she said 'I threw it' and watched their faces and the watching was the point. The crack was a story. The crack was a way of saying 'I'm not okay' without having to say it.",
+    "certainty": "confidently_wrong"
+  },
+  {
+    "era": "The Uprooting",
+    "time": "June 2019 - July 2019",
+    "opinion": "Goodbyes don't work",
+    "because": "She said goodbye to Elara and it didn't stick. She said goodbye to the flat and it didn't feel like enough. She said goodbye to Nando's and the chips tasted the same as always and the sameness was an insult. Goodbyes are supposed to make the leaving feel like something but they don't, they just make you perform feelings you're not ready to have, and then the feelings come later, in the wrong place, at the wrong time, when nobody's watching and there's no one to say them to.",
+    "certainty": "shaky"
+  },
+  {
+    "era": "The Uprooting",
+    "time": "September 2019 - December 2019",
+    "opinion": "Speaking is dangerous",
+    "because": "The toilet incident. The laugh. The sound her mouth made when it produced the wrong word. Every time she opened her mouth something terrible came out, so it was better to keep it closed. The logic of a drowning person — don't breathe in, don't breathe at all, the water will get in.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The Uprooting",
+    "time": "September 2019 - December 2019",
+    "opinion": "Czech is the language that hurts",
+    "because": "English made Dad laugh. English made biscuits happen. Czech made Mum's face go tight. Czech made the kids in class laugh at her. Czech was the word that meant 'wrong' and 'different' and 'angličanka.' She didn't choose to hate Czech. It happened to her the way the cold happened to her — you don't choose to hate the thing that's freezing you.",
+    "certainty": "shaky"
+  },
+  {
+    "era": "The Uprooting",
+    "time": "September 2019 - December 2019",
+    "opinion": "Babička's kitchen is the only safe place in this country",
+    "because": "No one laughed at her there. No one expected her to speak. The humming was the opposite of the radiator's knocking — warm sound instead of angry sound, gentle instead of violent. The koláče appeared without asking. The wood smelled like old and safe and the same. The whole country was a war zone and the kitchen was the bunker.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The Uprooting",
+    "time": "September 2019 - December 2019",
+    "opinion": "Dad is becoming a person on a screen, not a person in the world",
+    "because": "The calls got shorter. The background got noisier. His eyes looked away more. The 'alright, Munch?' became a script, not a question. She could feel him becoming smaller, like a photo left in the sun, fading at the edges, and the fear was that one day she'd look at the screen and there'd be nothing there at all, just the crack running through where his left eye used to be.",
+    "certainty": "shaky"
+  },
+  {
+    "era": "The Uprooting",
+    "time": "January 2020 - March 2020",
+    "opinion": "Czech is becoming hers, not just Mum's language, not just the anxious language",
+    "because": "The word 'jezeře' came out right. The laugh came out Czech. The language is moving from outside to inside and she didn't give permission but she's not stopping it. Czech used to mean Mum's tight face and 'proboha.' Now it means Matěj's patience and Kovy's jokes and Mrs. Navrátilová's smile. The language is two things at once and she's learning to hold both.",
+    "certainty": "shaky"
+  },
+  {
+    "era": "The Uprooting",
+    "time": "January 2020 - March 2020",
+    "opinion": "Running is the only thing that doesn't need translation",
+    "because": "The track doesn't care if you say 'jezeře' wrong. Your legs don't need grammar. Your lungs don't need vocabulary. You just run and the world gets simpler. It's the closest thing to the fish tank at Bright Horizons — you just exist and nobody asks you to explain.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The Uprooting",
+    "time": "January 2020 - March 2020",
+    "opinion": "Mrs. Navrátilová's smile was worth more than every pity look combined",
+    "because": "The pity looks said 'you poor thing, you can't do this.' The smile said 'you did this.' The smile expected her to succeed. She would run ten miles for another one. She would learn a hundred Czech words. She would sit in the front row and wait.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The Uprooting",
+    "time": "January 2020 - March 2020",
+    "opinion": "Babička's kitchen is the safest place in the world and she doesn't entirely deserve it",
+    "because": "The food appears without asking. The silence is comfortable. Babička doesn't check her face for sadness or hold her too tight. But the safety comes from a move she didn't want, from a country that isn't hers. She can't separate the comfort from the loss. Every koláč tastes a little like England getting further away.",
+    "certainty": "shaky"
+  },
+  {
+    "era": "The Uprooting",
+    "time": "March 2020 - September 2020",
+    "opinion": "Quiet can be safe, not just scary",
+    "because": "Lockdown forced the world to go quiet and the quiet became the only option and she had to survive it, and somewhere between the running and the chess and the Minecraft, the quiet stopped being the thing before the knock and started being the thing that let her hear herself think. The church bells at night still sounded wrong. But the silence between them was becoming hers.",
+    "certainty": "shaky"
+  },
+  {
+    "era": "The Uprooting",
+    "time": "March 2020 - September 2020",
+    "opinion": "Děda's silence is different from Mum's silence",
+    "because": "Mum's silence means something is wrong — the held breath, the tight face, the bathroom door closing, the tap running. Děda's silence means he's thinking, or resting, or just existing near you without needing anything. One silence takes up space and the other makes space, and she didn't know silence could be different until she sat across from a man who was quiet without being afraid.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The Uprooting",
+    "time": "March 2020 - September 2020",
+    "opinion": "Running is necessary, not optional",
+    "because": "The field behind the house at 7pm, the rhythm of her feet, the only part of the day that belonged completely to her, the way her lungs burned and her legs ached and the Czech fell away and the English fell away and there was just the body moving through space, no translation required, no anxiety hovering, no questions in any language. Running was the exit and the entrance both. She needed it like air. She would always need it like air.",
+    "certainty": "confident"
+  },
+  {
+    "era": "The Uprooting",
+    "time": "March 2020 - September 2020",
+    "opinion": "The house is too small for all of them",
+    "because": "Babička's house on Na Purkrabství wasn't built for a quarantine, wasn't built for a mother who couldn't stop checking, wasn't built for a girl who needed to not-be-held sometimes. The walls were closer than the flat above Ladbrokes. The stairs creaked and announced everyone's location. There was nowhere to go that someone couldn't find you. She started memorizing which floorboards stayed silent, which routes let her move without being heard, which doors could be closed without attracting attention.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The Uprooting",
+    "time": "March 2020 - September 2020",
+    "opinion": "Czech is becoming hers, not just something being done to her",
+    "because": "The YouTube. The Minecraft. The chess terms. The slang Matěj taught her that her teachers didn't know. The way she dreamed in Czech sometimes now, the way English started feeling clumsy in her mouth when she talked to Dad, the way she understood Babička's soap operas without subtitles. The language was moving from outside her to inside her and she didn't know when it happened, just that one day the Czech felt like breathing instead of like holding her breath.",
+    "certainty": "shaky"
+  },
+  {
+    "era": "The Uprooting",
+    "time": "March 2020 - September 2020",
+    "opinion": "Missing English is a betrayal she can't help committing",
+    "because": "Czech was supposed to be the prize, the thing she gained from the move, and she was gaining it, finally, but gaining it meant losing something too, and the something was the sound of Dad's voice in her ear without the delay, the sound of English in her mouth without the accent, the sound of home before home became two different places. She told Matěj she missed it and he said 'já vím' and that helped but it didn't fix it. Nothing fixes it. You just carry both languages and one of them always feels like leaving and the other always feels like arriving and you're never just somewhere, you're always going.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The Uprooting",
+    "time": "October 2020 - May 2021",
+    "opinion": "Not-crying is lying and the body always tells on you eventually",
+    "because": "She performed strength at the funeral and her body waited three days and then destroyed her at 3am. The delay didn't mean she was strong. It meant she was scared. Strong would have been crying in front of everyone. Strong would have been letting them see. She wasn't strong. She was a stone and stones don't feel and she's not a stone and the pretending almost killed her.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The Uprooting",
+    "time": "October 2020 - May 2021",
+    "opinion": "Czech funerals are cruel",
+    "because": "Open casket. Open. The body right there. His hands right there. She understands the tradition — see the person one last time, say goodbye to the real them, not a box — but the real him wasn't in that casket. The real him was in the kitchen with the chess set. The real him was 'tvoje tah' and 'ne tak napjatě' and the slow patience of his breathing when he fell asleep mid-game. The wax figure in the coffin was someone's idea of closure and it gave her nightmares instead.",
+    "certainty": "shaky"
+  },
+  {
+    "era": "The Uprooting",
+    "time": "October 2020 - May 2021",
+    "opinion": "Tereza Bártová might not be the enemy",
+    "because": "The silence at the canteen table. The not-saying-sorry. The 'vidíme se' like it was a normal day. Tereza treated her like a person instead of a wound and that was... new. Different. Anna is suspicious of it. She's been burned before — not by Tereza specifically but by the world, by moves, by fathers who become spare rooms, by stones that get thrown away. But the silence felt real and she trusts real things even when she doesn't trust people.",
+    "certainty": "shaky"
+  },
+  {
+    "era": "The Uprooting",
+    "time": "October 2020 - May 2021",
+    "opinion": "Running is the only thing that makes the room smaller",
+    "because": "Grief is a room with no doors. Running doesn't open a door but it shrinks the walls a little, makes the air breathable, makes the body too tired to hold the nothing. When she runs she doesn't think about his hands. When she runs she doesn't think about the clean fingernails. When she runs she just runs and the simplicity of that is the closest thing to peace she's found since the chess set closed.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The Uprooting",
+    "time": "October 2020 - May 2021",
+    "opinion": "Babička is alone and Anna can't fix it but she can sit next to it",
+    "because": "The smaller kitchen. The quieter humming. The way Babička moves through the house like she's looking for someone who isn't there. Anna can't bring him back. She can't make the chair less empty. But she can sit at the table and eat the štrúdl and let the silence exist between them the way Tereza let it exist at lunch. This is what she learned from Děda without knowing she was learning it: you don't have to fix people. You just have to be there.",
+    "certainty": "confidently_wrong"
+  },
+  {
+    "era": "The In-Between",
+    "time": "September 2020 - March 2021",
+    "opinion": "Her emotions are broken — they don't arrive when they're supposed to and they come too late and too much",
+    "because": "She didn't cry at the funeral. She cried at 3am into a pillow for two hours. The delay felt like evidence of malfunction. Nobody told her delayed grief was normal. She decided she was broken and the decision calcified.",
+    "certainty": "confidently_wrong"
+  },
+  {
+    "era": "The In-Between",
+    "time": "September 2020 - March 2021",
+    "opinion": "Being invisible is the safest way to survive a new place",
+    "because": "The back row worked. The canteen table near the bins worked. Silence worked. Nobody noticed her, nobody asked her questions, nobody made her explain herself. The invisibility felt like control and control felt like safety and she didn't know yet that invisibility also meant loneliness.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The In-Between",
+    "time": "September 2020 - March 2021",
+    "opinion": "Funerals are for the living, not the dead, and they're performed wrong",
+    "because": "The wrong face in the casket. The lilies. The relatives speaking fast Czech she couldn't follow. The performative crying. She didn't feel what she was supposed to feel when she was supposed to feel it and the whole ceremony felt like a play she'd been cast in without reading the script.",
+    "certainty": "shaky"
+  },
+  {
+    "era": "The In-Between",
+    "time": "September 2020 - March 2021",
+    "opinion": "The chess set is a gravestone and moving the pieces would be grave-robbing",
+    "because": "The set sits on the attic shelf and she looks at it every night. The pieces are where he left them — she can't remember if it was her turn or his, the last game, the one where he fell asleep. Moving them would mean continuing without him and she can't continue without him, she can only exist near the evidence that he existed.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The In-Between",
+    "time": "September 2020 - March 2021",
+    "opinion": "Mrs. Navrátilová is different from the other Czech adults",
+    "because": "No pity. No anxiety. No 'proboha' face. Just a smile that said 'I see you and you're fine.' The recognition was simple and the simplicity was the point. Every other Czech adult in her life carried something — Mum carried grief, Babička carried absence, the relatives carried noise. Mrs. Navrátilová carried nothing. She just saw.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The In-Between",
+    "time": "April 2021 - January 2022",
+    "opinion": "Being called pretty is not a compliment, it's a warning",
+    "because": "The barbecue. The hands in her hair. 'Ta kráska' like it was the only thing worth mentioning about her. She had a brain. She had a chess set she couldn't play. She had a running time that was getting faster. But what Jana and Mum's friends wanted to talk about was her face and her body and what she'd do to boys someday, and the conversation wasn't about her, it was about what she looked like, and that was a different thing entirely, and it made her feel like a thing instead of a person, and the warning was: this is what the world sees first, this is what matters to them, everything else is secondary",
+    "certainty": "firm"
+  },
+  {
+    "era": "The In-Between",
+    "time": "April 2021 - January 2022",
+    "opinion": "Tereza Bártová is not the same person who laughed at her in the toilet",
+    "because": "The pad. The silence in the canteen. The way Tereza never mentioned the bathroom again, never used it against her, never collected the debt. People can be more than one thing. The girl who said angličanka and the girl who slid a pad under the door are the same person, and Anna doesn't have to forgive the first one to appreciate the second one, and the contradiction doesn't have to be resolved, it can just exist, like all the other contradictions she carries",
+    "certainty": "shaky"
+  },
+  {
+    "era": "The In-Between",
+    "time": "April 2021 - January 2022",
+    "opinion": "Running is the only time she's really herself",
+    "because": "The track. The rhythm. The way her brain shuts up when her legs are moving. When she runs she's not the English girl or the pretty one or the container for Mum's grief. She's just a body in motion, earning something, choosing the pain. The 1500m time trial — 5:23 — was the first number that belonged to her alone. Not given. Not inherited. Not commented on. Earned.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The In-Between",
+    "time": "April 2021 - January 2022",
+    "opinion": "Mum's comments about her body are a new version of the anxious arms",
+    "because": "The posture comments. The clothes comments. The 'boys will look at you' comments. It's the same control dressed up as concern. Mum held her too tight as a baby and now she's trying to control how Anna presents to the world, and both things come from the same place — Klára's fear that something bad will happen, Klára's certainty that the world is dangerous, Klára's love that crushes because it doesn't know how to be light. The anxious arms became the commenting mouth. The grip just moved locations.",
+    "certainty": "confidently_wrong"
+  },
+  {
+    "era": "The In-Between",
+    "time": "April 2021 - January 2022",
+    "opinion": "Bodies are traitors",
+    "because": "The period arriving without permission. The growing that happened while she wasn't paying attention. The bite that Krish Patel received before she decided to bite. The way her chest changed and suddenly people thought they could touch her hair. Bodies do things without asking. Bodies get noticed without consenting to be noticed. Bodies bleed and grow and betray you into visibility and you're supposed to be grateful because at least you're healthy, at least you're pretty, at least you're — no. The body is not hers. It's a rental. And the landlord keeps changing the terms.",
+    "certainty": "shaky"
+  },
+  {
+    "era": "The In-Between",
+    "time": "February 2022 - October 2022",
+    "opinion": "Wanting is dangerous — it makes you visible and vulnerable and stupid",
+    "because": "Ondřej. The hair-flip. The trip. The 'you alright?' The six months of thinking about someone who never thought about her. She gave away the power the moment she wanted him and he never even knew she'd handed it over and that was the worst part — not the rejection but the invisibility of it, the fact that she'd been consumed by something he hadn't even noticed.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The In-Between",
+    "time": "February 2022 - October 2022",
+    "opinion": "Running is the only thing that makes sense — the only place where effort produces result",
+    "because": "She trained four times a week and she placed fourth in the championship. Cause and effect. The radiator knocked and heat came. She ran and she placed. The world was chaotic and people were unreliable and wanting things made you weak but running was clean, running was math, running was the one system that hadn't failed her yet.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The In-Between",
+    "time": "February 2022 - October 2022",
+    "opinion": "Being pretty is a trap — it makes people look at you but not see you",
+    "because": "The comments started this year — Mum's friends, strangers, boys at school. 'Stand up straight.' 'That top is too tight.' 'You could be a model.' Lukáš Fiala saying she was the prettiest girl in school like that was a compliment and not a cage. Matěj looking at her different since she 'got pretty' like she'd changed when she hadn't, like the outside had shifted and everyone decided the inside must have shifted too. Being pretty meant being looked at and being looked at meant being watched and being watched meant being held — not physically, but socially, trapped in the gaze, expected to perform the thing they saw when they looked at her.",
+    "certainty": "shaky"
+  },
+  {
+    "era": "The In-Between",
+    "time": "February 2022 - October 2022",
+    "opinion": "Tereza Bártová is the only person who would say no to a boy for her and that means something she can't articulate",
+    "because": "Girl code. The stupid phrase that shouldn't mean anything but means everything. Tereza could have said yes. Tereza probably wanted to say yes — Anna saw her face when Ondřej walked away, the brief flicker of temptation before the choice locked in. And Tereza chose Anna. Chose loyalty over opportunity. Anna has never been chosen first before. Not by Dad, who chose Siân and the flat in Croydon. Not by Mum, who chose to move them here. Not by anyone, ever, in any way that didn't come with conditions or guilt or the weight of 'I did this for you.' Tereza's 'no' was clean. No debt. No guilt. Just the choice. Anna doesn't know how to thank someone for that so she doesn't try, she just shows up at the café every Wednesday and hopes Tereza understands.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The In-Between",
+    "time": "November 2022 - June 2023",
+    "opinion": "Pavel Souček is not her father and never will be",
+    "because": "He wears slippers in someone else's house. He buys trainers like affection can be purchased. He says 'dobrý den' every morning like he's asking permission to exist in a space that was never his. He's not Dad. He's not anything. He's just there, taking up room, making the house smaller, making Mum's face go soft in a way it never went for Dad, and the softness is worse than the anger because it means Mum has moved on and Anna hasn't and the gap between them is growing.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The In-Between",
+    "time": "November 2022 - June 2023",
+    "opinion": "The house isn't hers anymore",
+    "because": "The coat on the hook. The mug in the sink. The slippers by the door. The car in the driveway. Every object is a flag planted in territory she thought was safe. Babička's house was supposed to be neutral — not England, not the flat above Ladbrokes, not anywhere that belonged to anyone — and now it belongs to Pavel too, slowly, one object at a time, and she can feel herself being pushed out of rooms she used to sit in.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The In-Between",
+    "time": "November 2022 - June 2023",
+    "opinion": "Gratitude is a trap",
+    "because": "Mum says 'I'm doing this for us' and the 'us' is supposed to include Anna but it doesn't feel like inclusion, it feels like conscription. She didn't vote for this. She didn't choose the move or the country or the man. She's supposed to be grateful for a life she didn't pick and the gratitude is a cage with nice bars — you can see through them but you can't get out. Saying thank you for the trainers was saying 'okay, you're allowed to be here' and she doesn't think he's allowed to be here but she said it anyway because the alternative was a fight she was too tired to have.",
+    "certainty": "shaky"
+  },
+  {
+    "era": "The In-Between",
+    "time": "November 2022 - June 2023",
+    "opinion": "Running is the only thing that's actually hers",
+    "because": "The track doesn't have a fourth place setting. Coach Novotný doesn't ask her to be polite. The intervals don't care if she's grateful. Running is the only place where she isn't someone's daughter or someone's problem or someone's obligation. It's just a body moving through space at a measurable speed and the measurability is the only honest thing left.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The In-Between",
+    "time": "November 2022 - June 2023",
+    "opinion": "Mum is happier and that's worse somehow",
+    "because": "The tight face is looser. The 'proboha' comes less often. Klára hums in the kitchen now, actual humming, not the anxious kind. This should be good. Anna knows it should be good. But it isn't good because the happiness has a source and the source is Pavel and Pavel is the problem and how can the problem and the solution be the same person? She can't be happy for her mother without being angry at the cause of the happiness and the contradiction is exhausting and she doesn't know how to hold it.",
+    "certainty": "shaky"
+  },
+  {
+    "era": "The In-Between",
+    "time": "July 2023 - December 2023",
+    "opinion": "Dad's new life is clean and wrong and she wasn't invited",
+    "because": "The Croydon flat had no knocking radiator, no damp spot, no evidence that difficulty had ever lived there. The nursery had felt clouds on the mobile. The kitchen had a dishwasher that worked. The whole flat was proof that he could build a functional life and he'd done it without her, and the cleanness was an accusation.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The In-Between",
+    "time": "July 2023 - December 2023",
+    "opinion": "Pretty is a trap",
+    "because": "Lukáš Fiala saw her face and called it the best face in school. Mum's friends see her body and comment on it. Strangers look at her and see something she didn't make. Pretty means being seen. Being seen means being vulnerable. She wants to be fast, not beautiful, because fast is something she earned and pretty is something that happened to her.",
+    "certainty": "shaky"
+  },
+  {
+    "era": "The In-Between",
+    "time": "July 2023 - December 2023",
+    "opinion": "Siân is worse than a villain because you can't hate her properly",
+    "because": "A villain you can fight. Siân touches her coffee stain and laughs nervously and asks about school and is clearly trying to be kind and kindness from the woman who replaced your mum is the worst kind because you can't fight it without becoming the villain yourself.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The In-Between",
+    "time": "July 2023 - December 2023",
+    "opinion": "Poppy didn't do anything wrong and that's the worst part",
+    "because": "She's three. She has his eyes. She doesn't know that her existence proves something painful. Anna can't be angry at a toddler but the anger has to go somewhere so it goes inward, becomes the 3am crack, becomes the nothing that isn't actually nothing.",
+    "certainty": "confidently_wrong"
+  },
+  {
+    "era": "The In-Between",
+    "time": "July 2023 - December 2023",
+    "opinion": "Lying is easier than breaking things",
+    "because": "She told Dad she was happy in Czech Republic. She told Dad she was busy at Christmas. Both lies, both easier than the truth, because the truth would require explaining that the distance isn't just kilometers, it's the clean flat and the felt clouds and the blue eyes that aren't hers, and the explanation would break something she can't afford to break because she's already broken enough.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The In-Between",
+    "time": "January 2024 - Present",
+    "opinion": "Being pretty is a trap — people see it before they see anything else and they decide who you are based on it",
+    "because": "Lukáš Fiala said 'nejhezčí holka' and she froze because he didn't say smart or funny or fast, he said pretty, and pretty is the thing that gets you noticed and noticed is the thing that makes Mum's face go tight and Mum's face going tight is the thing that makes the anxious arms come back and the anxious arms are the thing she's spent fourteen years trying to escape. Also: strangers on the street, Mum's friends, boys at school — they all see the body first. The body she didn't ask for. The body that's changing without her permission. Pretty is a cage with nice bars, same as gratitude.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The In-Between",
+    "time": "January 2024 - Present",
+    "opinion": "The guilt is worse than the thing you feel guilty about",
+    "because": "Dodging Dad's calls feels bad for five minutes. The guilt about dodging them feels bad for three days. She's learned that avoidance is a short-term relief with long-term interest, and the interest is destroying her, but she keeps doing it because five minutes of relief is five minutes of not-having-to-perform-connection and the performance is exhausting and the alternative is silence and the silence is worse. She doesn't know how to break the cycle. She doesn't know if she wants to.",
+    "certainty": "shaky"
+  },
+  {
+    "era": "The In-Between",
+    "time": "January 2024 - Present",
+    "opinion": "Running is the only honest thing in her life",
+    "because": "The track doesn't have opinions about her body. Coach Novotný doesn't care if she's Czech or English. Karolína Dvořáková doesn't ask how she's feeling. The clock doesn't lie. The distance doesn't care about her family. Every other part of her life is complicated and tangled and full of people who want things from her that she can't give — the track just wants her to run, and she can run, and the simplicity of that exchange is the only thing that makes sense some days.",
+    "certainty": "firm"
+  },
+  {
+    "era": "The In-Between",
+    "time": "January 2024 - Present",
+    "opinion": "She's never leaving Benešov",
+    "because": "The thought arrived one night at 3am and she couldn't make it leave. She'll go to university in Prague maybe, but Prague is still Czech, still this life, still this country that chose her when she didn't choose it. The girls who leave are the girls with money, with fathers who show up, with mothers who don't need saving. She's the girl who stays. She's the girl who runs circles on the same track and sits in the same café and watches Babička get older in the same kitchen. The fear is heavy and shapeless and she can't run it off.",
+    "certainty": "shaky"
+  },
+  {
+    "era": "The In-Between",
+    "time": "January 2024 - Present",
+    "opinion": "Mum is right about everything and that's the worst part",
+    "because": "About Pavel — he is trying. About England — it was a mess. About Anna's body — boys are looking. About being careful — the world is dangerous for girls who look like her. Every opinion Klára has is grounded in experience and trauma and love and being-right-about-everything is the most suffocating quality a mother can have because you can't argue with right, you can only suffer under it, and Anna knows this and still can't stop arguing, still can't stop using the blade ('I didn't ask you to leave England') even when she knows it's wrong, even when she knows Mum is right, maybe because she knows Mum is right and being right isn't the same as being helpful.",
+    "certainty": "confidently_wrong"
+  }
+]

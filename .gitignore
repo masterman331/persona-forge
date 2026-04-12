@@ -27,7 +27,6 @@ config.local.py
 conversations/
 
 # Persona output (generated personas may contain private data)
-output/
 
 # Logs
 logs/
