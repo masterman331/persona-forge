@@ -102,6 +102,11 @@ The Chinese documentation exists partly because of this connection to the Chines
 
 ---
 
+> **Disclaimer:**  
+> This project has been vibe-coded please use it cautiously. - Masterman331
+
+---
+
 ## 🪙 Support This Project
 
 If you found this project useful, interesting, or helpful, consider supporting its development through **Monero**.
